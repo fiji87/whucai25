@@ -1,0 +1,19 @@
+current directory: /home/aslan/projects/wucai25/.bundle/ruby/3.3.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+/usr/bin/ruby extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /home/aslan/projects/wucai25/.bundle/ruby/3.3.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20250113-397651-5zmn7b sitelibdir\=./.gem.20250113-397651-5zmn7b clean
+
+current directory: /home/aslan/projects/wucai25/.bundle/ruby/3.3.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20250113-397651-5zmn7b sitelibdir\=./.gem.20250113-397651-5zmn7b
+compiling unf.cc
+linking shared-object unf_ext.so
+
+current directory: /home/aslan/projects/wucai25/.bundle/ruby/3.3.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20250113-397651-5zmn7b sitelibdir\=./.gem.20250113-397651-5zmn7b install
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20250113-397651-5zmn7b
+
+current directory: /home/aslan/projects/wucai25/.bundle/ruby/3.3.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20250113-397651-5zmn7b sitelibdir\=./.gem.20250113-397651-5zmn7b clean

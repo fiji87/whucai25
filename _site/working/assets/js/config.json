@@ -1,0 +1,53 @@
+{
+    "map": {
+        "map_provider": "Esri.WorldTopoMap",
+        "home_coord": [43.72170359789119, 10.408443722056028],
+        "default_zoom": 15
+    },
+
+    "live": {
+        "time": {
+            "start": 1741593600,
+            "end": 1741716000
+        },
+
+        "streaming": {
+            "enable": true,
+            "pause": 60,
+            "prepend": 5,
+            "extend": 5
+        },
+
+        "demo": {
+            "enable": false,
+            "duration": 300,
+            "pause": 10
+        }
+    },
+
+    "lang": {
+        "map": {
+            "focus_conf": "Center map on conference location",
+            "focus_me": "Show my current location"
+        },
+        "live": {
+            "pre_stream": "Live stream has not started yet.",
+            "post_stream": "Live stream has ended.",
+            "pause_stream": "Live stream is currently paused.",
+            "time": {
+                "soon": "soon",
+                "now": "now",
+                "in": "in ",
+                "since": "since ",
+                "weeks": "weeks",
+                "week": "week",
+                "days": "days",
+                "day": "day",
+                "hours": "hours",
+                "hour": "hour",
+                "minutes": "minutes",
+                "minute": "minute"
+            }
+        }
+    }
+}
