@@ -12,6 +12,8 @@ The aim of the workshop is to foster further broad collaboration in the field of
 The field is driven by developments in AI, but it also requires fundamentally new approaches and solutions. Thus, we leverage collaborations across research domains such as AI, Human-Computer Interaction, cognitive and social sciences, philosophy & ethics, law, and complex systems, among others.
 
 
-<p id="registration">
+**Program to be announced.**
+
+<!-- <p id="registration">
 Streaming for online participation is provided below.
-</p>
+</p> -->

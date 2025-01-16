@@ -2,8 +2,8 @@ title: Second FAIR Workshop on Human-Centered AI
 preposition: at
 description: >-
 # TODO: update to path
-baseurl: "whucai25" # the subpath of your site, e.g. /blog
-url: "http://whucai2025.isti.cnr.it/" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "/whucai25" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. https://example.com
 
 # theme: jekyll-theme-conference
 remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.1"
@@ -97,10 +97,10 @@ conference:
     # logo:
     #   img: ''
     links:
-      - name: Program
-        relative_url: /program/
-      - name: How to get there
-        relative_url: /location/
+      # - name: Program
+      #   relative_url: /program/
+      # - name: How to get there
+      #   relative_url: /location/
       # - name: Tickets
       #   disabled: true
       #   absolute_url: ''
