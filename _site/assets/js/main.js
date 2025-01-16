@@ -22,7 +22,7 @@
 // Conference
 window.conference = {
     config: {
-        baseurl: '/web'
+        baseurl: ''
     },
 
     ready: false,
