@@ -112,3 +112,24 @@ td.alert-posters {
 .segments .segment .column:nth-child(2) {
     width: 30% !important;
 }
+
+.segments .segment:not(.colorful) span.speaker::before {
+    content: "Session chair: ";
+}
+
+/* Subsessions w/o top borders */
+div.posters div.ui.segment.poster:not(:first-child) {
+    border-top: 0px !important;
+}
+
+div.posters div.ui.segment.poster:not(:first-child) span.speaker::before {
+    content: "Speaker: ";
+}
+
+/* Say no to tasks in session talks! */
+div.posters div.ui.segment.poster:not(:first-child) span.wp,
+div.posters div.ui.segment.poster:not(:first-child) span.task,
+div.posters div.ui.segment.poster:not(:first-child) span.from,
+div.posters div.ui.segment.poster:not(:first-child) span.to {
+    display: none;
+}

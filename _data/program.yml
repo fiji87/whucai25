@@ -9,61 +9,122 @@ days:
           time_start: '09:00'
           time_end: '09:30'
 
-        - name: Explainable AI for synergistic human-AI collaboration
+        - name: 'Explainable AI for synergistic human-AI collaboration'
           time_start: '09:30'
-          time_end: '09:40'
+          time_end: '09:35'
+        - name: 'Post-hoc explainability'
+          time_start: '09:35'
+          time_end: '09:50'
+        - name: 'Interpretable and Individual Latent Encoding for Post-hoc Explainability'
+          time_start: '09:50'
+          time_end: '10:00'
+        - name: 'Transparent AI for healthcare'
+          time_start: '10:00'
+          time_end: '10:15'
+        - name: 'The Human interaction medium: Abel'
+          time_start: '10:15'
+          time_end: '10:30'
+
 
         - name: 'System 1 and System 2: Machine Learning and Reasoning'
-          time_start: '11:30'
-          time_end: '11:45'
+          time_start: '11:00'
+          time_end: '11:10'
+        - name: 'Explainable neuro-symbolic systems'
+          time_start: '11:10'
+          time_end: '11:25'
+        - name: 'System 1 and System 2: Machine Learning and Reasoning'
+          time_start: '11:25'
+          time_end: '11:40'
+        - name: 'System 1 and System 2: Machine Learning and Reasoning'
+          time_start: '11:40'
+          time_end: '12:00'
         
-        - name: Human-centered Lifelong Learning for Complex Data
+        - name: 'Human-centered Lifelong Learning for Complex Data'
+          time_start: '12:00'
+          time_end: '12:10'
+        - name: 'XAI of graph neural networks'
+          time_start: '12:10'
+          time_end: '12:25'
+        - name: 'Limitations of vision-language models in object detection and counting'
+          time_start: '12:25'
+          time_end: '12:40'
+        - name: 'Investigating the semantic abilities and limits of LLMs'
+          time_start: '12:40'
+          time_end: '13:00'
+        
+        - name: 'Human-AI Socio-Technical Complex Systems'
           time_start: '14:00'
-          time_end: '14:20'
+          time_end: '14:12'
         
-        - name: 'Keynote: The Humane-AI EU network of excellence'
-          time_start: '16:00'
+        - name: 'Y Social: an LLM-powered Social Media Digital Twin'
+          time_start: '14:12'
+          time_end: '14:24'
+        
+        - name: 'Politcs and AI'
+          time_start: '14:24'
+          time_end: '14:36'
+        
+        - name: 'Interviewing accountants and AI'
+          time_start: '14:36'
+          time_end: '14:48'
+
+        - name: "The key role of workers' participation in the regulation of AI"
+          time_start: '14:48'
+          time_end: '15:00'
+
+        - name: 'The academic partners of the Spoke'
+          time_start: '15:00'
           time_end: '17:00'
-        
-        - name: 'The industrial and societal potential of human-centered AI'
+
+        - name: 'The FAIR innovation grants'
           time_start: '17:00'
-          time_end: '17:30'
+          time_end: '18:00'
 
 
-    - name: Aula PS4
+    - name: Aula Magna
       talks:
-        - name: First poster session
-          time_start: '17:30'
-          time_end: '19:00'
+        - name: Poster session
+          time_start: '18:00'
+          time_end: '19:30'
 
 - name: March 11, Thursday
   abbr: 11
   date: 2025-03-11
   rooms:
     - name: Aula Magna
-      talks:
-        - name: Human-AI Socio-Technical Complex Systems
-          time_start: '09:30'
-          time_end: '09:45'
-        
+      talks:        
         - name: Decentralized, cooperative learning
-          time_start: '11:30'
-          time_end: '11:45'
+          time_start: '9:00'
+          time_end: '10:00'
 
         - name: Co-design methodologies for trustworthiness by-design
-          time_start: '14:00'
-          time_end: '14:10'
+          time_start: '10:00'
+          time_end: '10:12'
+
+        - name:  Towards a Relational Ethics in AI. The Problem of Agency, The Search for Common Principles, the Pairing of Human and Artificial Agents
+          time_start: '10:12'
+          time_end: '10:24'
         
-        - name: FAIR Spoke 1 meets industry - Introducing cascading calls for companies
-          time_start: '16:00'
+        - name:  Analyzing Cultural Traits, Values and Ethical Postures in LLM Outputs via Personae and Ideal Types
+          time_start: '10:24'
+          time_end: '10:36'
+        
+        - name:  'Neural networks in closed-loop systems: Verification using interval arithmetic and formal prover'
+          time_start: '10:36'
+          time_end: '10:48'
+        
+        - name:  'PUFFLE: Balancing Privacy, Utility, and Fairness in Federated Learning'
+          time_start: '10:48'
+          time_end: '11:00'
+        
+        - name: 'The Transversal Projects of the Spoke'
+          time_start: '14:00'
+          time_end: '15:30'
+        
+        - name: 'Perspectives of the young researchers of the Spoke'
+          time_start: '15:30'
           time_end: '17:00'
         
-        - name: "Round table of WP leaders: Human-centered AI, Generative AI and EU's AI Act: what's next?"
-          time_start: '17:00'
-          time_end: '18:00'
-
-    - name: Aula PS4
-      talks:
-        - name: Second poster session
-          time_start: '18:00'
+        - name: 'Poster session'
+          time_start: '17:30'
           time_end: '19:00'

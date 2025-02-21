@@ -73,6 +73,7 @@
     font-size: large;
 }
 
+.segments p.speaker,
 .segments span.speaker {
     display: block;
     color: darkgray;

@@ -16,229 +16,285 @@
     },
 
     "speakers": {
+        "Aikaterini Papagiannouli" : {
+            "name": "Aikaterini Papagiannouli",
+            "href": "/speakers/aikaterini/"
+        },
+        "Antonio Luca Alfeo" : {
+            "name": "Antonio Luca Alfeo",
+            "href": "/speakers/alfeo/"
+        },
         "Vincenzo Ambriola" : {
             "name": "Vincenzo Ambriola",
-            "href": "/whucai25/speakers/ambriola/"
+            "href": "/speakers/ambriola/"
         },
         "Davide Bacciu" : {
             "name": "Davide Bacciu",
-            "href": "/whucai25/speakers/bacciu/"
+            "href": "/speakers/bacciu/"
         },
         "Cinzia Bernardeschi" : {
             "name": "Cinzia Bernardeschi",
-            "href": "/whucai25/speakers/bernardeschi/"
+            "href": "/speakers/bernardeschi/"
         },
         "Chiara Boldrini" : {
             "name": "Chiara Boldrini",
-            "href": "/whucai25/speakers/boldrini/"
+            "href": "/speakers/boldrini/"
+        },
+        "Erica Cau" : {
+            "name": "Erica Cau",
+            "href": "/speakers/cau/"
         },
         "Mario Giovanni Cosimo Antonio Cimino" : {
             "name": "Mario Giovanni Cosimo Antonio Cimino",
-            "href": "/whucai25/speakers/cimino/"
+            "href": "/speakers/cimino/"
+        },
+        "Marco Cococcioni" : {
+            "name": "Marco Cococcioni",
+            "href": "/speakers/cococcioni/"
         },
         "Lorenzo Cominelli" : {
             "name": "Lorenzo Cominelli",
-            "href": "/whucai25/speakers/cominelli/"
+            "href": "/speakers/cominelli/"
         },
         "Marco Conti" : {
             "name": "Marco Conti",
-            "href": "/whucai25/speakers/conti/"
+            "href": "/speakers/conti/"
+        },
+        "Luca Corbucci" : {
+            "name": "Luca Corbucci Luca Corbucci",
+            "href": "/speakers/corbucci/"
         },
         "Giuliano Cornacchia" : {
             "name": "Giuliano Cornacchia",
-            "href": "/whucai25/speakers/cornacchia/"
+            "href": "/speakers/cornacchia/"
         },
         "Silvia Dadà" : {
             "name": "Silvia Dadà",
-            "href": "/whucai25/speakers/dada/"
+            "href": "/speakers/dada/"
         },
         "Mario D Almo" : {
             "name": "Mario D Almo",
-            "href": "/whucai25/speakers/dalmo/"
+            "href": "/speakers/dalmo/"
         },
         "Daniele D'Armiento" : {
             "name": "Daniele D'Armiento",
-            "href": "/whucai25/speakers/darmiento/"
+            "href": "/speakers/darmiento/"
         },
         "Federica De Santis" : {
-            "name": "Federica Federica De Santis",
-            "href": "/whucai25/speakers/desantis/"
+            "name": "Federica De Santis",
+            "href": "/speakers/desantis/"
+        },
+        "Marzio Di Vece" : {
+            "name": "Marzio Di Vece",
+            "href": "/speakers/divece/"
         },
         "Pietro Ducange" : {
             "name": "Pietro Ducange",
-            "href": "/whucai25/speakers/ducange/"
+            "href": "/speakers/ducange/"
         },
         "Adriano Fabris" : {
             "name": "Adriano Fabris",
-            "href": "/whucai25/speakers/fabris/"
+            "href": "/speakers/fabris/"
         },
         "Andrea Ferrara" : {
             "name": "Andrea Ferrara",
-            "href": "/whucai25/speakers/ferrara/"
+            "href": "/speakers/ferrara/"
         },
         "Lorenzo Fiaschi" : {
             "name": "Lorenzo Fiaschi",
-            "href": "/whucai25/speakers/fiaschi/"
+            "href": "/speakers/fiaschi/"
         },
         "Federico Rossi" : {
             "name": "Federico Rossi",
-            "href": "/whucai25/speakers/frossi/"
+            "href": "/speakers/frossi/"
         },
         "Alessandro Gabrielli" : {
             "name": "Alessandro Gabrielli",
-            "href": "/whucai25/speakers/gabrielli/"
+            "href": "/speakers/gabrielli/"
         },
         "Federico Galatolo" : {
             "name": "Federico Galatolo",
-            "href": "/whucai25/speakers/galatolo/"
+            "href": "/speakers/galatolo/"
         },
         "Daniele Gambetta" : {
             "name": "Daniele Gambetta",
-            "href": "/whucai25/speakers/gambetta/"
+            "href": "/speakers/gambetta/"
         },
         "Matteo Garofalo" : {
             "name": "Matteo Garofalo",
-            "href": "/whucai25/speakers/garofalo/"
+            "href": "/speakers/garofalo/"
+        },
+        "Francesco Giannini" : {
+            "name": "Francesco Giannini",
+            "href": "/speakers/giannini/"
         },
         "Fosca Giannotti" : {
             "name": "Fosca Giannotti",
-            "href": "/whucai25/speakers/giannotti/"
+            "href": "/speakers/giannotti/"
         },
         "Gizem Gezici" : {
             "name": "Gizem Gezici",
-            "href": "/whucai25/speakers/gizem/"
+            "href": "/speakers/gizem/"
+        },
+        "Elio Grande" : {
+            "name": "Elio Grande",
+            "href": "/speakers/grande/"
         },
         "Riccardo Guidotti" : {
             "name": "Riccardo Guidotti",
-            "href": "/whucai25/speakers/guidotti/"
+            "href": "/speakers/guidotti/"
         },
         "Giuseppe Iannaccone" : {
             "name": "Giuseppe Iannaccone",
-            "href": "/whucai25/speakers/iannaccone/"
+            "href": "/speakers/iannaccone/"
+        },
+        "Silvia Keeling" : {
+            "name": "Silvia Keeling",
+            "href": "/speakers/keeling/"
         },
         "Michela Lazzeroni" : {
             "name": "Michela Lazzeroni",
-            "href": "/whucai25/speakers/lazzeroni/"
+            "href": "/speakers/lazzeroni/"
         },
         "Vincenzo Lomonaco" : {
             "name": "Vincenzo Lomonaco",
-            "href": "/whucai25/speakers/lomonaco/"
+            "href": "/speakers/lomonaco/"
         },
         "Paul Lukowicz" : {
             "name": "Paul Lukowicz",
-            "href": "/whucai25/speakers/lukowicz/"
+            "href": "/speakers/lukowicz/"
         },
         "Francesco Marcelloni" : {
             "name": "Francesco Marcelloni",
-            "href": "/whucai25/speakers/marcelloni/"
+            "href": "/speakers/marcelloni/"
         },
         "Giuseppe Mazzotta" : {
             "name": "Giuseppe Mazzotta",
-            "href": "/whucai25/speakers/mazzotta/"
+            "href": "/speakers/mazzotta/"
         },
         "Nicola Messina" : {
             "name": "Nicola Messina",
-            "href": "/whucai25/speakers/messina/"
+            "href": "/speakers/messina/"
         },
         "Alessio Micheli" : {
             "name": "Alessio Micheli",
-            "href": "/whucai25/speakers/micheli/"
+            "href": "/speakers/micheli/"
+        },
+        "Martina Miliani" : {
+            "name": "Martina Miliani",
+            "href": "/speakers/miliani/"
         },
         "Anna Monreale" : {
             "name": "Anna Monreale",
-            "href": "/whucai25/speakers/monreale/"
+            "href": "/speakers/monreale/"
+        },
+        "Mirco Nanni" : {
+            "name": "Mirco Nanni",
+            "href": "/speakers/nanni/"
         },
         "Franco Maria Nardini" : {
             "name": "Franco Maria Nardini",
-            "href": "/whucai25/speakers/nardini/"
+            "href": "/speakers/nardini/"
         },
         "Francesca Naretto" : {
             "name": "Francesca Naretto",
-            "href": "/whucai25/speakers/naretto/"
+            "href": "/speakers/naretto/"
         },
         "Veronica Neri" : {
             "name": "Veronica Neri",
-            "href": "/whucai25/speakers/neri/"
+            "href": "/speakers/neri/"
         },
         "Caterina Pareo" : {
             "name": "Caterina Pareo",
-            "href": "/whucai25/speakers/pareo/"
+            "href": "/speakers/pareo/"
         },
         "Andrea Passarella" : {
             "name": "Andrea Passarella",
-            "href": "/whucai25/speakers/passarella/"
+            "href": "/speakers/passarella/"
         },
         "Dino Pedreschi" : {
             "name": "Dino Pedreschi",
-            "href": "/whucai25/speakers/pedreschi/"
+            "href": "/speakers/pedreschi/"
         },
         "Andrea Pedrotti" : {
             "name": "Andrea Pedrotti",
-            "href": "/whucai25/speakers/pedrotti/"
+            "href": "/speakers/pedrotti/"
         },
         "Roberto Pellungrini" : {
             "name": "Roberto Pellungrini",
-            "href": "/whucai25/speakers/pellungrini/"
+            "href": "/speakers/pellungrini/"
         },
         "Raffaele Perego" : {
             "name": "Raffaele Perego",
-            "href": "/whucai25/speakers/perego/"
+            "href": "/speakers/perego/"
+        },
+        "Emanuele Fulvio Perri" : {
+            "name": "Emanuele Fulvio Perri",
+            "href": "/speakers/perri/"
         },
         "Marco Podda" : {
             "name": "Marco Podda",
-            "href": "/whucai25/speakers/podda/"
+            "href": "/speakers/podda/"
+        },
+        "Andrea Pugnana" : {
+            "name": "Andrea Pugnana",
+            "href": "/speakers/pugnana/"
         },
         "Salvatore Rinzivillo" : {
             "name": "Salvatore Rinzivillo",
-            "href": "/whucai25/speakers/rinzivillo/"
+            "href": "/speakers/rinzivillo/"
         },
         "Antonello Romano" : {
             "name": "Antonello Romano",
-            "href": "/whucai25/speakers/romano/"
+            "href": "/speakers/romano/"
         },
         "Marco Romito" : {
             "name": "Marco Romito",
-            "href": "/whucai25/speakers/romito/"
+            "href": "/speakers/romito/"
         },
         "Giulio Rossetti" : {
             "name": "Giulio Rossetti",
-            "href": "/whucai25/speakers/rossetti/"
+            "href": "/speakers/rossetti/"
         },
         "Salvatore Ruggieri" : {
             "name": "Salvatore Ruggieri",
-            "href": "/whucai25/speakers/ruggieri/"
+            "href": "/speakers/ruggieri/"
         },
         "Roberto Scopigno" : {
             "name": "Roberto Scopigno",
-            "href": "/whucai25/speakers/scopigno/"
+            "href": "/speakers/scopigno/"
         },
         "Fabrizio Sebastiani" : {
             "name": "Fabrizio Sebastiani",
-            "href": "/whucai25/speakers/sebastiani/"
+            "href": "/speakers/sebastiani/"
+        },
+        "Mattia Setzu" : {
+            "name": "Mattia Setzu",
+            "href": "/speakers/setzu/"
         },
         "Umberto Straccia" : {
             "name": "Umberto Straccia",
-            "href": "/whucai25/speakers/straccia/"
+            "href": "/speakers/straccia/"
         },
         "Jack Tacchi" : {
             "name": "Jack Tacchi",
-            "href": "/whucai25/speakers/tacchi/"
+            "href": "/speakers/tacchi/"
         },
         "Domenico Tortorella" : {
             "name": "Domenico Tortorella",
-            "href": "/whucai25/speakers/tortorella/"
+            "href": "/speakers/tortorella/"
         },
         "Tommaso Turchi" : {
             "name": "Tommaso Turchi",
-            "href": "/whucai25/speakers/turchi/"
+            "href": "/speakers/turchi/"
         },
         "Lorenzo Valerio" : {
             "name": "Lorenzo Valerio",
-            "href": "/whucai25/speakers/valerio/"
+            "href": "/speakers/valerio/"
         },
         "Vito Giordano" : {
             "name": "Vito Giordano",
-            "href": "/whucai25/speakers/vitogiordano/"
+            "href": "/speakers/vitogiordano/"
         }
     },
 

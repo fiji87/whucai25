@@ -22,7 +22,7 @@
 // Conference
 window.conference = {
     config: {
-        baseurl: '/whucai25'
+        baseurl: ''
     },
 
     ready: false,
