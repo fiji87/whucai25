@@ -15,3 +15,10 @@ Poster sessions are split by WP between the two workshop days (split yet to be d
 - **Deadline.** Posters are to be affixed in the morning of your session, before we start with the scheduled program
 - **Template.** There is no set template, but make sure your poster includes the [FAIR logos](https://drive.google.com/drive/folders/1Q_OO0srBL6FKx-WkYVCM4KoffXt_LpT-?usp=sharing)! Posters must be `A0` format, portrait mode.
 
+
+<div class="ui negative message">
+  <div class="header">
+    Poster room
+  </div>
+  <p>Posters are to be posted directly in Aula Magna!</p>
+</div>
