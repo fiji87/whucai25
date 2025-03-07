@@ -8,21 +8,23 @@ days:
         - name: Welcome and introduction
           time_start: '09:00'
           time_end: '09:30'
-
         - name: 'Explainable AI for synergistic human-AI collaboration'
           time_start: '09:30'
           time_end: '09:35'
-        - name: 'Post-hoc explainability'
+        - name: 'ABEL: An Empathetic & Cognition-Aware Interactive AI'
           time_start: '09:35'
           time_end: '09:50'
-        - name: 'Interpretable and Individual Latent Encoding for Post-hoc Explainability'
+        - name: 'Transparent AI for healthcare'
           time_start: '09:50'
           time_end: '10:00'
-        - name: 'Transparent AI for healthcare'
+        - name: 'Bocsor'
           time_start: '10:00'
-          time_end: '10:15'
-        - name: 'The Human interaction medium: Abel'
-          time_start: '10:15'
+          time_end: '10:17'
+        - name: 'FLocalX'
+          time_start: '10:17'
+          time_end: '10:24'
+        - name: 'Illume'
+          time_start: '10:24'
           time_end: '10:30'
 
 
@@ -54,22 +56,30 @@ days:
         
         - name: 'Human-AI Socio-Technical Complex Systems'
           time_start: '14:00'
-          time_end: '14:12'
+          time_end: '14:05'
         
         - name: 'Y Social: an LLM-powered Social Media Digital Twin'
-          time_start: '14:12'
-          time_end: '14:24'
+          time_start: '14:05'
+          time_end: '14:15'
         
-        - name: 'Politcs and AI'
-          time_start: '14:24'
-          time_end: '14:36'
+        - name: 'What drives AI politicisation? AI debates during 2024 EP elections'
+          time_start: '14:15'
+          time_end: '14:25'
         
-        - name: 'Interviewing accountants and AI'
-          time_start: '14:36'
-          time_end: '14:48'
+        - name: 'Still in the loop: how auditors navigate the AI paradox'
+          time_start: '14:25'
+          time_end: '14:35'
 
         - name: "The key role of workers' participation in the regulation of AI"
-          time_start: '14:48'
+          time_start: '14:35'
+          time_end: '14:40'
+        
+        - name: "Alternative routing and emissions in human mobility"
+          time_start: '14:40'
+          time_end: '14:50'
+        
+        - name: "Signed networks from temporal series and social media data"
+          time_start: '14:50'
           time_end: '15:00'
 
         - name: 'The academic partners of the Spoke'
@@ -95,7 +105,23 @@ days:
       talks:        
         - name: Decentralized, cooperative learning
           time_start: '9:00'
-          time_end: '10:00'
+          time_end: '09:10'
+        
+        - name: Resilience of Decentralized Learning to Low-quality Data
+          time_start: '09:10'
+          time_end: '09:20'
+        
+        - name: Efficient Retrieval over Learned Sparse Representations
+          time_start: '09:20'
+          time_end: '09:30'
+        
+        - name: Consistent Post-Hoc Explainability in Federated Learning
+          time_start: '09:30'
+          time_end: '09:40'
+        
+        - name: Dynamic Hard Pruning of Neural Networks on Resource-Constrained Devices
+          time_start: '09:40'
+          time_end: '09:50'
 
         - name: Co-design methodologies for trustworthiness by-design
           time_start: '10:00'

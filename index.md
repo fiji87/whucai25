@@ -11,11 +11,3 @@ The second workshop on this series is organized in Pisa by the spoke “Human-ce
 The aim of the workshop is to foster further broad collaboration in the field of Human-centered AI, both within the scientific community and together with industry and the public sector.
 The field is driven by developments in AI, but it also requires fundamentally new approaches and solutions. Thus, we leverage collaborations across research domains such as AI, Human-Computer Interaction, cognitive and social sciences, philosophy & ethics, law, and complex systems, among others.
 
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdD3MX01_YKapkXTAmGhswwGyMRBFApH_6s7r-AQHx6FB7-nw/viewform?usp=sharing">
-    <button class="ui basic button" id="registration">
-        <!-- <i class="fa fa-pen"></i> -->
-        Sign up here!
-        <i class="fa fa-pen"></i>
-    </button>
-</a>

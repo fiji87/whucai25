@@ -24,14 +24,6 @@
             "name": "Antonio Luca Alfeo",
             "href": "/speakers/alfeo/"
         },
-        "Vincenzo Ambriola" : {
-            "name": "Vincenzo Ambriola",
-            "href": "/speakers/ambriola/"
-        },
-        "Davide Bacciu" : {
-            "name": "Davide Bacciu",
-            "href": "/speakers/bacciu/"
-        },
         "Cinzia Bernardeschi" : {
             "name": "Cinzia Bernardeschi",
             "href": "/speakers/bernardeschi/"
@@ -61,24 +53,12 @@
             "href": "/speakers/conti/"
         },
         "Luca Corbucci" : {
-            "name": "Luca Corbucci Luca Corbucci",
+            "name": "Luca Corbucci",
             "href": "/speakers/corbucci/"
         },
         "Giuliano Cornacchia" : {
             "name": "Giuliano Cornacchia",
             "href": "/speakers/cornacchia/"
-        },
-        "Silvia Dadà" : {
-            "name": "Silvia Dadà",
-            "href": "/speakers/dada/"
-        },
-        "Mario D Almo" : {
-            "name": "Mario D Almo",
-            "href": "/speakers/dalmo/"
-        },
-        "Daniele D'Armiento" : {
-            "name": "Daniele D'Armiento",
-            "href": "/speakers/darmiento/"
         },
         "Federica De Santis" : {
             "name": "Federica De Santis",
@@ -88,17 +68,9 @@
             "name": "Marzio Di Vece",
             "href": "/speakers/divece/"
         },
-        "Pietro Ducange" : {
-            "name": "Pietro Ducange",
-            "href": "/speakers/ducange/"
-        },
         "Adriano Fabris" : {
             "name": "Adriano Fabris",
             "href": "/speakers/fabris/"
-        },
-        "Andrea Ferrara" : {
-            "name": "Andrea Ferrara",
-            "href": "/speakers/ferrara/"
         },
         "Lorenzo Fiaschi" : {
             "name": "Lorenzo Fiaschi",
@@ -108,21 +80,9 @@
             "name": "Federico Rossi",
             "href": "/speakers/frossi/"
         },
-        "Alessandro Gabrielli" : {
-            "name": "Alessandro Gabrielli",
-            "href": "/speakers/gabrielli/"
-        },
         "Federico Galatolo" : {
             "name": "Federico Galatolo",
             "href": "/speakers/galatolo/"
-        },
-        "Daniele Gambetta" : {
-            "name": "Daniele Gambetta",
-            "href": "/speakers/gambetta/"
-        },
-        "Matteo Garofalo" : {
-            "name": "Matteo Garofalo",
-            "href": "/speakers/garofalo/"
         },
         "Francesco Giannini" : {
             "name": "Francesco Giannini",
@@ -132,10 +92,6 @@
             "name": "Fosca Giannotti",
             "href": "/speakers/giannotti/"
         },
-        "Gizem Gezici" : {
-            "name": "Gizem Gezici",
-            "href": "/speakers/gizem/"
-        },
         "Elio Grande" : {
             "name": "Elio Grande",
             "href": "/speakers/grande/"
@@ -144,33 +100,13 @@
             "name": "Riccardo Guidotti",
             "href": "/speakers/guidotti/"
         },
-        "Giuseppe Iannaccone" : {
-            "name": "Giuseppe Iannaccone",
-            "href": "/speakers/iannaccone/"
-        },
         "Silvia Keeling" : {
             "name": "Silvia Keeling",
             "href": "/speakers/keeling/"
         },
-        "Michela Lazzeroni" : {
-            "name": "Michela Lazzeroni",
-            "href": "/speakers/lazzeroni/"
-        },
-        "Vincenzo Lomonaco" : {
-            "name": "Vincenzo Lomonaco",
-            "href": "/speakers/lomonaco/"
-        },
-        "Paul Lukowicz" : {
-            "name": "Paul Lukowicz",
-            "href": "/speakers/lukowicz/"
-        },
         "Francesco Marcelloni" : {
             "name": "Francesco Marcelloni",
             "href": "/speakers/marcelloni/"
-        },
-        "Giuseppe Mazzotta" : {
-            "name": "Giuseppe Mazzotta",
-            "href": "/speakers/mazzotta/"
         },
         "Nicola Messina" : {
             "name": "Nicola Messina",
@@ -188,13 +124,73 @@
             "name": "Anna Monreale",
             "href": "/speakers/monreale/"
         },
-        "Mirco Nanni" : {
-            "name": "Mirco Nanni",
-            "href": "/speakers/nanni/"
-        },
         "Franco Maria Nardini" : {
             "name": "Franco Maria Nardini",
             "href": "/speakers/nardini/"
+        },
+        "Davide Bacciu" : {
+            "name": "Davide Bacciu",
+            "href": "/speakers/bacciu/"
+        },
+        "Silvia Dadà" : {
+            "name": "Silvia Dadà",
+            "href": "/speakers/dada/"
+        },
+        "Mario D Almo" : {
+            "name": "Mario D Almo",
+            "href": "/speakers/dalmo/"
+        },
+        "Daniele D'Armiento" : {
+            "name": "Daniele D'Armiento",
+            "href": "/speakers/darmiento/"
+        },
+        "Pietro Ducange" : {
+            "name": "Pietro Ducange",
+            "href": "/speakers/ducange/"
+        },
+        "Andrea Ferrara" : {
+            "name": "Andrea Ferrara",
+            "href": "/speakers/ferrara/"
+        },
+        "Alessandro Gabrielli" : {
+            "name": "Alessandro Gabrielli",
+            "href": "/speakers/gabrielli/"
+        },
+        "Daniele Gambetta" : {
+            "name": "Daniele Gambetta",
+            "href": "/speakers/gambetta/"
+        },
+        "Matteo Garofalo" : {
+            "name": "Matteo Garofalo",
+            "href": "/speakers/garofalo/"
+        },
+        "Gizem Gezici" : {
+            "name": "Gizem Gezici",
+            "href": "/speakers/gizem/"
+        },
+        "Giuseppe Iannaccone" : {
+            "name": "Giuseppe Iannaccone",
+            "href": "/speakers/iannaccone/"
+        },
+        "Michela Lazzeroni" : {
+            "name": "Michela Lazzeroni",
+            "href": "/speakers/lazzeroni/"
+        },
+        "Vincenzo Lomonaco" : {
+            "name": "Vincenzo Lomonaco",
+            "href": "/speakers/lomonaco/"
+        },
+        "Paul Lukowicz" : {
+            "name": "Paul Lukowicz",
+            "href": "/speakers/lukowicz/"
+        },
+        "Giuseppe Mazzotta" : {
+            "name": "Giuseppe Mazzotta",
+            "href": "/speakers/mazzotta/"
+        },
+        "Mirco Nanni" : {
+            "name": "Mirco Nanni",
+            "href": "/speakers/nanni/"
         },
         "Francesca Naretto" : {
             "name": "Francesca Naretto",
@@ -204,17 +200,9 @@
             "name": "Veronica Neri",
             "href": "/speakers/neri/"
         },
-        "Caterina Pareo" : {
-            "name": "Caterina Pareo",
-            "href": "/speakers/pareo/"
-        },
         "Andrea Passarella" : {
             "name": "Andrea Passarella",
             "href": "/speakers/passarella/"
-        },
-        "Dino Pedreschi" : {
-            "name": "Dino Pedreschi",
-            "href": "/speakers/pedreschi/"
         },
         "Andrea Pedrotti" : {
             "name": "Andrea Pedrotti",
@@ -224,6 +212,34 @@
             "name": "Roberto Pellungrini",
             "href": "/speakers/pellungrini/"
         },
+        "Antonello Romano" : {
+            "name": "Antonello Romano",
+            "href": "/speakers/romano/"
+        },
+        "Giulio Rossetti" : {
+            "name": "Giulio Rossetti",
+            "href": "/speakers/rossetti/"
+        },
+        "Roberto Scopigno" : {
+            "name": "Roberto Scopigno",
+            "href": "/speakers/scopigno/"
+        },
+        "Tommaso Turchi" : {
+            "name": "Tommaso Turchi",
+            "href": "/speakers/turchi/"
+        },
+        "Vito Giordano" : {
+            "name": "Vito Giordano",
+            "href": "/speakers/vitogiordano/"
+        },
+        "Caterina Pareo" : {
+            "name": "Caterina Pareo",
+            "href": "/speakers/pareo/"
+        },
+        "Dino Pedreschi" : {
+            "name": "Dino Pedreschi",
+            "href": "/speakers/pedreschi/"
+        },
         "Raffaele Perego" : {
             "name": "Raffaele Perego",
             "href": "/speakers/perego/"
@@ -231,6 +247,10 @@
         "Emanuele Fulvio Perri" : {
             "name": "Emanuele Fulvio Perri",
             "href": "/speakers/perri/"
+        },
+        "Simone Piaggesi" : {
+            "name": "Simone Piaggesi",
+            "href": "/speakers/piaggesi/"
         },
         "Marco Podda" : {
             "name": "Marco Podda",
@@ -244,25 +264,25 @@
             "name": "Salvatore Rinzivillo",
             "href": "/speakers/rinzivillo/"
         },
-        "Antonello Romano" : {
-            "name": "Antonello Romano",
-            "href": "/speakers/romano/"
-        },
         "Marco Romito" : {
             "name": "Marco Romito",
             "href": "/speakers/romito/"
         },
-        "Giulio Rossetti" : {
-            "name": "Giulio Rossetti",
-            "href": "/speakers/rossetti/"
+        "Fabrizio Ruffini" : {
+            "name": "Fabrizio Ruffini",
+            "href": "/speakers/ruffini/"
         },
         "Salvatore Ruggieri" : {
             "name": "Salvatore Ruggieri",
             "href": "/speakers/ruggieri/"
         },
-        "Roberto Scopigno" : {
-            "name": "Roberto Scopigno",
-            "href": "/speakers/scopigno/"
+        "Cosimo Rulli" : {
+            "name": "Cosimo Rulli",
+            "href": "/speakers/rulli/"
+        },
+        "Samuele Sabella" : {
+            "name": "Samuele Sabella",
+            "href": "/speakers/sabella/"
         },
         "Fabrizio Sebastiani" : {
             "name": "Fabrizio Sebastiani",
@@ -284,17 +304,9 @@
             "name": "Domenico Tortorella",
             "href": "/speakers/tortorella/"
         },
-        "Tommaso Turchi" : {
-            "name": "Tommaso Turchi",
-            "href": "/speakers/turchi/"
-        },
         "Lorenzo Valerio" : {
             "name": "Lorenzo Valerio",
             "href": "/speakers/valerio/"
-        },
-        "Vito Giordano" : {
-            "name": "Vito Giordano",
-            "href": "/speakers/vitogiordano/"
         }
     },
 

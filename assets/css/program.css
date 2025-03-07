@@ -89,9 +89,9 @@ td.alert-posters {
     border-left: 5px solid  var(--posters) !important;
 }
 
-.segment.poster.colorful {
-    border-bottom: 5px solid transparent;
-    border-image: linear-gradient(90deg,
+.segments.posters.colorful {
+    border-left: 5px solid transparent;
+    border-image: linear-gradient(0deg,
                                 rgba(100,169,221,1) 0%,
                                 rgba(235,102,102,1) 33%,
                                 rgba(248,178,88,1) 66%,

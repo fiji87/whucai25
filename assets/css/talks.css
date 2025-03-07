@@ -74,7 +74,8 @@
 }
 
 .segments p.speaker,
-.segments span.speaker {
+.segments span.speaker,
+.segment span.description {
     display: block;
     color: darkgray;
 }
@@ -100,7 +101,8 @@
     display: block;
 }
 
-.poster.wp1 {
+.poster.wp1,
+.poster.wp7 {
     border-left: 5px solid var(--wp1) !important;
 }
 
