@@ -11,3 +11,6 @@ The second workshop on this series is organized in Pisa by the spoke “Human-ce
 The aim of the workshop is to foster further broad collaboration in the field of Human-centered AI, both within the scientific community and together with industry and the public sector.
 The field is driven by developments in AI, but it also requires fundamentally new approaches and solutions. Thus, we leverage collaborations across research domains such as AI, Human-Computer Interaction, cognitive and social sciences, philosophy & ethics, law, and complex systems, among others.
 
+
+<iframe style="margin-top: 10px;" width="960" src="https://www.youtube.com/embed/R8p4xbtfvgE" title="Second FAIR Workshop on Human-Centered AI - Day 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ 
